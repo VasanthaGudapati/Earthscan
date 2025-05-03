@@ -1,0 +1,15 @@
+numpy – For numerical operations
+
+pandas – For data handling and manipulation
+
+matplotlib – For plotting and visualizing results
+
+seaborn – For enhanced data visualizations
+
+opencv-python – For image preprocessing (e.g., resizing, color conversion)
+
+tensorflow – For deep learning model development (VGG16, MobileNetV2, training, etc.)
+
+keras – High-level API used with TensorFlow to build and train deep learning models
+
+scikit-learn – For data splitting, evaluation metrics (accuracy, confusion matrix)
